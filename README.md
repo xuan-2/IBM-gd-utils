@@ -11,7 +11,7 @@ IBM Cloud Fonudray + gd-utils + Github Actions
 >
 >1、申请IBM Cloud Fonudray账号，记录下账号和密码。（申请完成后登录就不用管他了，不需要手动建立容器。若安装后出现500错误，原因是容器地址不对，需要登录IBM找到容器设置手动改成us-south.cf.appdomain.cloud的样子，然后检查前面的容器名和你设置的是否一致，改好后重新走第四步）
 >
->2、申请tg机器人，记录下token和自己的username(t.me/username)。多个用`username', '其他人的username`这个格式，注意起始处没有引号
+>2、申请tg机器人，记录下token 和自己的username(t.me/username)。多个用`username', '其他人的username`这个格式，注意起始处没有引号
 >
 >3、获得service account文件，并打包成accounts.zip上传到能下载的地方，然后记录下载url（可以直接上传到自己的GoogleDrive）
 >
