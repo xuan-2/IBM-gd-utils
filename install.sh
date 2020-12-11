@@ -87,7 +87,9 @@ install(){
     cd IBM-gd-utils/gd-utils
     npm i
     cd ..
-    ibmcloud target --cf
+    ibm
+    
+    cloud target --cf
     ibmcloud cf push
     echo "安装完成。"
     sleep 3s
